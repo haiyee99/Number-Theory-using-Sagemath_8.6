@@ -1,0 +1,6 @@
+Sagemath functions:
+https://wiki.sagemath.org/quickref?action=AttachFile&do=get&target=quickref-nt.pdf
+
+Primitive Roots:
+https://cp-algorithms.com/algebra/primitive-root.html
+https://brilliant.org/wiki/primitive-roots/
